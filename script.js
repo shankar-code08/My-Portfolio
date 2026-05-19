@@ -202,8 +202,8 @@ if (contactForm) {
 
       /* Send form using EmailJS */
       await emailjs.sendForm(
-        "service_14vhtdf",
-        "template_goh2a4v",
+        "service_e7yfi9p",
+        "template_tg1ioil",
         contactForm
       );
 
